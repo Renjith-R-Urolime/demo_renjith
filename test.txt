@@ -3,3 +3,4 @@
 3. box
 4.ball 
 5. penguin
+6. bat
